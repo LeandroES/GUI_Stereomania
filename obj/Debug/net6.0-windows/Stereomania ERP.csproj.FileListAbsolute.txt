@@ -1,0 +1,19 @@
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.csproj.AssemblyReference.cache
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania_ERP.GUI_Dashboard_Admin.resources
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania_ERP.GUI_Dashboard_Usuario.resources
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.csproj.GenerateResource.cache
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.AssemblyInfoInputs.cache
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.AssemblyInfo.cs
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.csproj.CoreCompileInputs.cache
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\bin\Debug\net6.0-windows\Stereomania ERP.exe
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\bin\Debug\net6.0-windows\Stereomania ERP.deps.json
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\bin\Debug\net6.0-windows\Stereomania ERP.runtimeconfig.json
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\bin\Debug\net6.0-windows\Stereomania ERP.dll
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\bin\Debug\net6.0-windows\Stereomania ERP.pdb
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania_ERP.S_Login.resources
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.dll
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\refint\Stereomania ERP.dll
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.pdb
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\Stereomania ERP.genruntimeconfig.cache
+D:\WorkSpaces\c#\V Semester\FDS\Stereomania ERP\Stereomania ERP\obj\Debug\net6.0-windows\ref\Stereomania ERP.dll
